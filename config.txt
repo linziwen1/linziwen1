@@ -1,6 +1,6 @@
 {
 # 公众号配置
-# 公众号appId
+# 公众号appid
 "app_id": "wxcc9e146f0d28dc70",
 # 公众号appSecret
 "app_secret": "88cb466a0156fde200a038ad14477201",
@@ -17,6 +17,6 @@
 #生日1
 "birthday1": {"name": "杨梦雅", "birthday": "2001-12-14"},
 #生日2
-"birthday1": {"name": "吝梓闻", "birthday": "2002-06-15"},
+"birthday2": {"name": "吝梓闻", "birthday": "2002-06-15"},
 "love_date": "2023-06-06",
 }
